@@ -1,0 +1,97 @@
+{
+  "name": "Eric Chapman",
+  "title": "Senior Hair Stylist & Massage Therapist",
+  "contact": {
+    "address": "55 S Judd St, Apt 2108, Honolulu, HI 96817",
+    "phone": "(808) 741-4622",
+    "email": "Erock2117@yahoo.com"
+  },
+  "summary": "Dedicated Senior Hair Stylist and Certified Massage Therapist with extensive experience in providing top-notch services in hair styling, color treatment, and massage therapy. Known for exceptional client communication, attention to detail, and a passion for enhancing client well-being.",
+  "skills": {
+    "hairStylingAndColorTechnician": [
+      "Collagen Straightening Treatment",
+      "Men's Hair Cuts (30 min)",
+      "Men's Clipper Cuts (30 min)",
+      "ECH Blowouts (45 min)",
+      "Airwaves (30 min)",
+      "Dry Hair Cuts",
+      "Cutting Thin Hair",
+      "Cutting Curly Hair",
+      "Razor Cutting",
+      "Short Hair Bleach and Tone",
+      "Color Foils and Balayage",
+      "Product Sales",
+      "Perms"
+    ],
+    "massageTherapy": [
+      "Deep Tissue Massage",
+      "Swedish Massage",
+      "Sports Massage",
+      "Trigger Point Therapy",
+      "Reflexology",
+      "Hot Stone Massage",
+      "Prenatal Massage"
+    ],
+    "additionalSkills": [
+      "Client Communication",
+      "Empathy and Compassion",
+      "Attention to Detail",
+      "Time Management"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Gene Juarez Academy",
+      "location": "Seattle, WA",
+      "yearsAttended": "2000-2010"
+    },
+    {
+      "institution": "Toni & Guy Academy",
+      "location": "Carrolton, TX",
+      "yearsAttended": "1996-1997"
+    },
+    {
+      "institution": "Redmond High School",
+      "location": "Redmond, WA",
+      "yearsAttended": "1990-1994"
+    },
+    {
+      "institution": "Heaven on Earth Salon & Spa",
+      "course": "Massage Therapy Education",
+      "yearsAttended": "September 2021 - May 2022"
+    }
+  ],
+  "achievements": [
+    "10 Years at Gene Juarez Salon & Spa",
+    "Designer of the Month, Gene Juarez 2006",
+    "50 Standing Appointments 2005",
+    "Sky Diving 2002",
+    "Toni & Guy Makeup Class 1998",
+    "Lived in Peru for 6 months (Jan 2016 - 2017) with Wife"
+  ],
+  "employmentHistory": [
+    {
+      "position": "Hair Designer and Colorist",
+      "company": "Heaven on Earth Salon & Spa",
+      "location": "Honolulu, HI",
+      "duration": "January 2017 - May 2024",
+      "responsibilities": [
+        "Provided expert hair design and color treatments",
+        "Managed client bookings and consultations",
+        "Specialized in advanced coloring techniques and hair treatments"
+      ]
+    },
+    {
+      "position": "Hair Designer and Colorist",
+      "company": "Satori Salon and Spa",
+      "location": "Kailua, HI",
+      "duration": "June 1, 2024 - August 22, 2024"
+    },
+    {
+      "position": "Hair Designer and Colorist",
+      "company": "Bishops Barbershop",
+      "location": "Portland, OR",
+      "duration": "December 2014 - May 2017"
+    }
+  ]
+}
